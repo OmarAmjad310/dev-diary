@@ -28,4 +28,5 @@ Meet OmarAmjad, a curious and dynamic individual with a passion for exploring ne
 - **ls - force** : to show all files within the hidden files.
 - **cp** : copy file/ or folder.
 - **mv** : move the file or rename.
+- We can find photo below that shows uses some terminal commands
 ![image alt](https://github.com/OmarAmjad310/dev-diary/blob/main/Screenshot%202025-05-11%20085812.png?raw=true)
