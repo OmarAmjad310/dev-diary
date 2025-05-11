@@ -4,7 +4,7 @@
 
 Meet OmarAmjad, a curious and dynamic individual with a passion for exploring new ideas and experiences. Whether diving into creative projects, engaging in meaningful conversations, or seeking out fresh perspectives, Omar brings a thoughtful and engaging approach to everything they do. With a keen interest in learning and connecting with others, they embrace challenges with enthusiasm and see every opportunity as a chance to grow. Friendly, insightful, and always up for an interesting discussion and makes a lasting impression wherever they go
 
-# The points that I have learnt from Good mindset articale.
+# The points that I have learnt from Good mindset developer articale.
 
 - I should be a fitfull to **update my knowleage** rapidly becuase every day there somthing new to learn.
 - If I face a big problem the best way to sovle it and make it easy to *divide it to small pecies*.
