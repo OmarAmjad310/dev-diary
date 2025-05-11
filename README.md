@@ -23,8 +23,9 @@ Meet OmarAmjad, a curious and dynamic individual with a passion for exploring ne
 - Here wecan find some commands and the using forrach one of them:
 - **mkdir**:  create a new directory.
 - **pwd**: displays the file path from the root directory to the current working directory.
-- **cd**: change the directory
+- **cd**: change the directory.
 - **ls**: show all files in the directory without the hidden files.
 - **ls - force** : to show all files within the hidden files.
-- **cp** : copy file/ or folder
-- **mv** : move the file or rename
+- **cp** : copy file/ or folder.
+- **mv** : move the file or rename.
+![image alt](https://github.com/OmarAmjad310/dev-diary/blob/main/Screenshot%202025-05-11%20085812.png?raw=true)
