@@ -1,6 +1,6 @@
 # dev-diary
 
-# introduction about myself.
+# Introduction about myself.
 
 Meet OmarAmjad, a curious and dynamic individual with a passion for exploring new ideas and experiences. Whether diving into creative projects, engaging in meaningful conversations, or seeking out fresh perspectives, Omar brings a thoughtful and engaging approach to everything they do. With a keen interest in learning and connecting with others, they embrace challenges with enthusiasm and see every opportunity as a chance to grow. Friendly, insightful, and always up for an interesting discussion and makes a lasting impression wherever they go
 
@@ -29,4 +29,4 @@ Meet OmarAmjad, a curious and dynamic individual with a passion for exploring ne
 - **cp** : copy file/ or folder.
 - **mv** : move the file or rename.
 - We can find photo below that shows uses some terminal commands
-![image alt](https://github.com/OmarAmjad310/dev-diary/blob/main/Screenshot%202025-05-11%20085812.png?raw=true)
+![image alt](https://github.com/OmarAmjad310/dev-diary/blob/main/dev-dairy.png?raw=true)
