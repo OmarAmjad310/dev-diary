@@ -29,4 +29,4 @@ Meet OmarAmjad, a curious and dynamic individual with a passion for exploring ne
 - **cp** : copy file/ or folder.
 - **mv** : move the file or rename.
 - We can find photo below that shows uses some terminal commands
-![image alt](https://github.com/OmarAmjad310/dev-diary/blob/main/dev-dairy.png?raw=true)
+[link](Screenshot 2025-05-11 085812.png)
