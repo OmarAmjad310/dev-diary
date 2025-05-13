@@ -19,7 +19,7 @@ Meet OmarAmjad, a curious and dynamic individual with a passion for exploring ne
 
 # What I have learnt from terminal commands.
 
-- The idea from using these commands `how to deal with command line inteface and undestand how it works`.
+- The idea from using these commands is `how to deal with command line inteface and undestand how it works`.
 - Here wecan find some commands and the using forrach one of them:
 - **mkdir**:  create a new directory.
 - **pwd**: displays the file path from the root directory to the current working directory.
