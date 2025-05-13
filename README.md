@@ -2,7 +2,7 @@
 
 # Introduction about myself.
 
-Meet OmarAmjad, a curious and dynamic individual with a passion for exploring new ideas and experiences. Whether diving into creative projects, engaging in meaningful conversations, or seeking out fresh perspectives, Omar brings a thoughtful and engaging approach to everything they do. With a keen interest in learning and connecting with others, they embrace challenges with enthusiasm and see every opportunity as a chance to grow. Friendly, insightful, and always up for an interesting discussion and makes a lasting impression wherever they go
+Meet OmarAmjad, a motivated Junior Full Stack Engineer with a strong foundation in JavaScript, HTML, CSS, and back-end technologies like Node.js, C# with Asp.Net framework. I am seeking  for a new  challenges where I can utilize my technical skills and experience to contribute to the success of the organization. My expertise includes designing and implementing software systems, troubleshooting software issues, and managing client’s problems. I am a quick learner with excellent problem-solving skills and am able to work collaboratively with teams to achieve common goals.
 
 # The points that I have learnt from Good Mindset Developer articale.
 
