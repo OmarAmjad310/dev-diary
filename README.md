@@ -2,7 +2,7 @@
 
 # Introduction about myself.
 
-Meet OmarAmjad, a motivated Junior Full Stack Engineer with a strong foundation in JavaScript, HTML, CSS, and back-end technologies like Node.js, C# with ASP.NET framework. I am seeking  for a new  challenges where I can utilize my technical skills and experience to contribute to the success of the organization. My expertise includes designing and implementing software systems, troubleshooting software issues, and managing client’s problems. I am a quick learner with excellent problem-solving skills and am able to work collaboratively with teams to achieve common goals.
+Meet OmarAmjad, a motivated Junior Full Stack Engineer with a strong foundation in JavaScript, HTML, CSS, and back-end technologies like Node.js, C# with ASP.NET framework. I am seeking  for a new  challenges where I can utilize my technical skills and experience to contribute to the success of the organization. My work includes designing and implementing software systems, troubleshooting software issues, and managing client’s problems. I am a quick learner with excellent problem-solving skills and am able to work collaboratively with teams to achieve common goals.
 
 # The points that I have learnt from Good Mindset Developer articale.
 
