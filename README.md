@@ -1,8 +1,8 @@
 # dev-diary
 
-# Introduction about myself.
+# About Me.
 
-Meet OmarAmjad, a motivated Junior Full Stack Engineer with a strong foundation in JavaScript, HTML, CSS, and back-end technologies like Node.js, C# with ASP.NET framework. I am seeking  for a new  challenges where I can utilize my technical skills and experience to contribute to the success of the organization. My work includes designing and implementing software systems, troubleshooting software issues, and managing client’s problems. I am a quick learner with excellent problem-solving skills and am able to work collaboratively with teams to achieve common goals.
+My name is Omar Amjad, I am 27 years old, I studied a Telecommunication engineer major in Al-Balqa applied university(faculty of engineering technology) and now I am a student in LTUC learning full stack web development course(JavaScript).
 
 # The points that I have learnt from Good Mindset Developer articale.
 
